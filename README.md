@@ -5,7 +5,7 @@ This project implements a trajectory optimization and visualization system for p
 ## Project Structure
 
 ```
-python-trajectory-project
+TrajectoryFitter
 ├── src
 │   ├── __init__.py          # Marks the src directory as a Python package
 │   ├── simulation.py        # Contains functions for simulating projectile motion
@@ -28,7 +28,7 @@ To set up the project, clone the repository and install the required dependencie
 
 ```bash
 git clone <repository-url>
-cd python-trajectory-project
+cd TrajectoryFitter
 pip install -r requirements.txt
 ```
 
